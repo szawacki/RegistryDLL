@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistryClass", "..\RegistryClass\RegistryClass\RegistryClass.csproj", "{E73DCC89-019C-4B6C-A8CD-70823FF64255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{6A698107-2720-43AD-AE27-605263D964E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{070F3CCB-8F9A-4C61-8D29-42D17C12D223}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		RegistryTest.vsmdi = RegistryTest.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E73DCC89-019C-4B6C-A8CD-70823FF64255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E73DCC89-019C-4B6C-A8CD-70823FF64255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E73DCC89-019C-4B6C-A8CD-70823FF64255}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{E73DCC89-019C-4B6C-A8CD-70823FF64255}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{E73DCC89-019C-4B6C-A8CD-70823FF64255}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E73DCC89-019C-4B6C-A8CD-70823FF64255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E73DCC89-019C-4B6C-A8CD-70823FF64255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E73DCC89-019C-4B6C-A8CD-70823FF64255}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{E73DCC89-019C-4B6C-A8CD-70823FF64255}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{E73DCC89-019C-4B6C-A8CD-70823FF64255}.Release|x86.ActiveCfg = Release|Any CPU
+		{6A698107-2720-43AD-AE27-605263D964E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A698107-2720-43AD-AE27-605263D964E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A698107-2720-43AD-AE27-605263D964E5}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{6A698107-2720-43AD-AE27-605263D964E5}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{6A698107-2720-43AD-AE27-605263D964E5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6A698107-2720-43AD-AE27-605263D964E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A698107-2720-43AD-AE27-605263D964E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A698107-2720-43AD-AE27-605263D964E5}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{6A698107-2720-43AD-AE27-605263D964E5}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{6A698107-2720-43AD-AE27-605263D964E5}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = RegistryTest.vsmdi
+	EndGlobalSection
+EndGlobal
