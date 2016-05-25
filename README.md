@@ -9,4 +9,4 @@ This repository contains the visual studio class library project and a correspon
 ## Documentation
 
 Shame on me it's not yet finished.
-Examples for the use of the regostry ddl can be found in th etest class.
+Examples for the use of the regostry ddl can be found in the test class.
